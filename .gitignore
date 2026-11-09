@@ -1,2 +1,8 @@
 *.exe
 *.pdb
+
+rust_concurrency/target/
+
+**/*rs.bk
+
+/vendor
